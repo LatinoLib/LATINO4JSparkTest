@@ -1,0 +1,1 @@
+C:\spark\bin\spark-submit --class "Latino4SparkTest" --master local C:\Work\Scala\Latino4SparkTest\out\artifacts\Latino4SparkTest_jar\Latino4SparkTest.jar
